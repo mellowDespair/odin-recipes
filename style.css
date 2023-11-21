@@ -1,0 +1,61 @@
+
+a:link { text-decoration:none; color: rgb(0, 139, 132); }
+a:hover { color:#5ec45e; }
+a:visited { color: #EE9A00; }
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin: 200px;
+    background-color: rgb(68, 66, 66);
+    color:rgb(192, 240, 240);
+
+    .beginning{
+        text-align: center;
+        
+        
+    }
+
+    .beginning.list{
+        list-style-type: none;
+        margin: 0;
+        padding-bottom: 15px;
+
+    }
+
+        
+
+    .title{
+        font-size: 48px;
+        font-family: 'Brush Script MT', 'Times New Roman', Times, serif;
+        font-weight: 700;
+        
+    }
+    .image{
+        height: auto;
+        width: 400px;
+        display: block;
+    }
+    .description{
+        line-height: 0px;
+        font-size: small;
+        font-weight: 200;
+        font-style: italic;
+        font-family: fantasy, 'Times New Roman', sans-serif;
+        margin-bottom: 40px;
+    }
+
+    .recipeinfo{
+        text-indent: 75px;
+        font-size: 18px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-right: 250px;
+                   
+    }
+        
+    
+    
+
+
+}
